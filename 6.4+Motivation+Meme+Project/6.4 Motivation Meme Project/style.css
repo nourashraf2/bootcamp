@@ -1,0 +1,21 @@
+.fontstyle{
+color: white;
+
+}
+div{
+
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    font-family:'Libre Baskerville',serif ;
+}
+
+h1{
+    font-family:'Libre Baskerville',serif ;
+    text-transform: uppercase;
+}
+
+img{
+    border: 5px white solid;
+    width: 100%;
+}
